@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BasketBallScore</string>
+    <string name="local">Local</string>
+    <string name="visitor">Visitor</string>
+    <string name="_1">-1</string>
+    <string name="_0">0</string>
+    <string name="local_visitor">Local - Visitor</string>
+    <string name="_0_0">0–0</string>
+    <string name="score_in_zero">Marcadores en cero</string>
+    <string name="winning_local">¡Ganó el equipo local!</string>
+    <string name="winning_visitor">¡Ganó el equipo visitor!</string>
+    <string name="its_a_tie">Es un empate</string>
+    <string name="result">%d - %d</string>
+</resources>
